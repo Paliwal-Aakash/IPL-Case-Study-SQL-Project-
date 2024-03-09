@@ -1,1 +1,0 @@
-# IPL-Case-Study-SQL-Project-
